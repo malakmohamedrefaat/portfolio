@@ -8,7 +8,7 @@ Welcome to the repository for my personal portfolio website! This project serves
 
 ## 🧑‍💻 About Me
 
-I am **Malak Mohamed Refaat**, an Artificial Intelligence student at **Cairo University** (Expected 2027) with a deep passion for leveraging AI, data pipelines, and scalable architectures to solve real-world problems. 
+I am **Malak Mohamed Refaat**, an Artificial Intelligence student at **Cairo University** with a deep passion for leveraging AI, data pipelines, and scalable architectures to solve real-world problems. 
 
 - 🧠 **Focus Areas:** Machine Learning, Computer Vision, Deep Learning.
 - 🏫 **Background:** Alumna of the prestigious **STEM Maadi School for Girls**; completed my freshman year at Helwan University **ranked 1st out of 1000+ students** (GPA: 3.82). Current GPA at Cairo University is **3.15**.
