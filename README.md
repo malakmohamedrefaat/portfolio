@@ -28,13 +28,13 @@ I am **Malak Mohamed Refaat**, an Artificial Intelligence student at **Cairo Uni
 
 ## 💼 Professional Experience & Internships
 
-* **Machine Learning Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Jan 2026 - Present)*
+* **Machine Learning Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Jan 2026 - July 2026)*
   * Deepening expertise in data cleaning, pipeline development, CNNs, and NLP Transformers.
 * **AI & Machine Learning Intern** @ Konecta *(July 2025 - Jan 2026)*
   * Built real-world ML solutions with a primary focus on data processing pipelines and model optimization.
 * **Full-Stack .NET Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Oct 2024 - June 2025)*
   * Trained heavily on building secure, scalable backend and frontend web architectures.
 * **Global Volunteer Workshop Instructor** @ AIESEC Sri Lanka *(July 2025 - Sept 2025)*
-  * Led social and leadership development workshops for over 70+ international participants.
+  * Led social and leadership development workshops for over 90+ international participants.
 * **IT Intern** @ Eden Facility Management - Hassan Allam *(July 2024 - Aug 2024)*
   * Managed network security firewalls, configured VoIP communication servers, and handled enterprise-level hardware infrastructure deployments.
